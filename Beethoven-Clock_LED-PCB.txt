@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Lab\beethoven-clock\pcb\Beethoven-Clock_LED-PCB\Beethoven-Clock_LED-PCB.PcbDoc
+Date         : 7/19/2024
+Time         : 2:06:08 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 19.1mmx12.2mm
+    Components on board, 24
+count : 2
